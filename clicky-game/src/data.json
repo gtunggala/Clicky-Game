@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/leslie.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/ben.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/april.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/andy.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/chris.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/anne.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/jerry.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/donna.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/jeanraphio.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/lilsebastian.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/ron.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/tom.png",
+    "clicked": false
+  }
+]
