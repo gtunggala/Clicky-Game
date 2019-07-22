@@ -8,14 +8,11 @@ const Footer = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title">Footer Content</h5>
-            <p>
-              Here you can use rows and columns here to organize your footer
-              content.
-            </p>
+            <h5 className="title">Parks and Recreation Character Game</h5>
+            <p>Don't mind me, just testing out this fancy footer.</p>
           </MDBCol>
           <MDBCol md="6">
-            <h5 className="title">Links</h5>
+            {/* <h5 className="title">Links</h5>
             <ul>
               <li className="list-unstyled">
                 <a href="#!">Link 1</a>
@@ -29,7 +26,7 @@ const Footer = () => {
               <li className="list-unstyled">
                 <a href="#!">Link 4</a>
               </li>
-            </ul>
+            </ul> */}
           </MDBCol>
         </MDBRow>
       </MDBContainer>
